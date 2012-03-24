@@ -6,6 +6,7 @@ echo "Follow me! http://www.twitter.com/TeamAndIRC"
 echo "Donations are optional http://forum.xda-developers.com/donatetome.php?u=2376614"
 echo "-"
 echo "Recovery taken from http://forum.xda-developers.com/showthread.php?t=1197991"
+echo "flash_image stolen from joeykrim fair and square"
 echo "-"
 echo "Pushing recovery to /data/local/"
 adb push VM670NH_recovery.img /data/local/recovery.img
